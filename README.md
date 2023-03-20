@@ -1,1 +1,1 @@
-# odin-recipes
+# Japanese recipes website
